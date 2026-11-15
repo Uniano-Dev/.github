@@ -27,8 +27,8 @@
 <img src="assets/hookvigil.png" width="22" height="22" align="top" alt=""> **Hookvigil** — WooCommerce plugin that alerts when a webhook is disabled and lists missed orders  
 [Source on GitHub](https://github.com/Uniano-Dev/hookvigil-for-woocommerce) · in WordPress plugin directory review
 
-<img src="assets/sync-watchdog.png" width="22" height="22" align="top" alt=""> **Sync Watchdog** — Shopify app that catches supplier stock and price drift before you oversell  
-Tested on a development store
+<img src="assets/sync-watchdog.png" width="22" height="22" align="top" alt=""> **Driftcheck** — Shopify app that catches supplier stock and price drift before you oversell  
+In Shopify App Store review
 
 ### What we build for clients
 
